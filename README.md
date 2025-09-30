@@ -208,6 +208,9 @@ np.log(df["Highly Positive Skew"])
 
 # Output:
 
+<img width="620" height="610" alt="image" src="https://github.com/user-attachments/assets/83c1a963-b4be-4deb-80bc-fa161082fc79" />
+
+
 
 
 ```
@@ -217,7 +220,9 @@ np.reciprocal(df["Moderate Positive Skew"])
 
 
 # Output:
-<img width="700" height="612" alt="image" src="https://github.com/user-attachments/assets/931acd15-12af-40af-9210-d619889d57eb" />
+
+<img width="629" height="617" alt="image" src="https://github.com/user-attachments/assets/4c64ed0b-be39-404f-87f9-fcc29146fa82" />
+
 
 
 
